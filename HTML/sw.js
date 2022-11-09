@@ -2,7 +2,6 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
   './Pag-entregJS.html',
-  './',
   './manifest.json'
 ];
 
